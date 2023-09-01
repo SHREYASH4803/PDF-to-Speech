@@ -9,7 +9,7 @@ def extract_text_from_pdf(pdf_path):
     return text
 
 def main():
-    pdf_path = "path_to_your_pdf_file.pdf"
+    pdf_path = "C:/Users/shrey/Downloads/SkillsBuild.pdf"
     extracted_text = extract_text_from_pdf(pdf_path)
    # print(extracted_text)  
 
